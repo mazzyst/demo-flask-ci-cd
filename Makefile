@@ -5,4 +5,4 @@ prepare:
 
 #TODO: ajouter une cible "test" qui teste la qualité du projet (et plante sinon)
 test:
-		pipenv run pylint *.py
+	pipenv run pylint *.py
